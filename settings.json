@@ -16,12 +16,7 @@
     "x": 0,
     "y": 100,
     "z": 0
-  },
 
-  "utils": {
-    "auto-auth": {
-      "enabled": true,
-      "password": "chalol78"
     },
 
     "anti-afk": {
